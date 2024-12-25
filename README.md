@@ -12,6 +12,8 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohitpshelar) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rohitpshelar) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](http://wa.me/918956185965?text=Hi..)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]([http://wa.me/918956185965?text=Hi..](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Arohitpshelar%40gmail.com%3Fsubject%3DGitHub:Hi%26))
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
