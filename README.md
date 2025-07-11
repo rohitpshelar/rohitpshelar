@@ -24,8 +24,8 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-8?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=mysql&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-8-8F7F7F7?style=for-the-badge&logo=camunda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitpshelar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
