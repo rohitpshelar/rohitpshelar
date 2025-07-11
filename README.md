@@ -38,6 +38,6 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rohitpshelar) 
+  [![UPI](https://img.shields.io/badge/UPI-green?style=for-the-badge&logo=googlepay&logoColor=black)](https://github.com/user-attachments/assets/2c7fb4f7-8642-4e83-8e57-577522120e3f)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
