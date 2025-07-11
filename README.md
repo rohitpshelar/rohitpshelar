@@ -16,9 +16,9 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css-B1B1C1?style=for-the-badge&logo=css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -26,6 +26,7 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Camunda](https://img.shields.io/badge/Camunda-8-8F7F7F7?style=for-the-badge&logo=camunda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitpshelar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
