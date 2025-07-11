@@ -11,7 +11,7 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rohitpshelar) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohitpshelar) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rohitpshelar) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](http://wa.me/918956185965?text=Hi..)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-darkgreen?logo=whatsapp&logoColor=white)](http://wa.me/918956185965?text=Hi..)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3Arohitpshelar%40gmail.com%3Fsubject%3DGitHub:Hi%26)
 
 
@@ -24,9 +24,11 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-8-8F7F7F7?style=for-the-badge&logo=camunda&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-8-orange?style=for-the-badge&logo=camunda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitpshelar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
