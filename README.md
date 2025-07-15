@@ -16,18 +16,20 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css-B1B1C1?style=for-the-badge&logo=css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Camunda](https://img.shields.io/badge/Camunda-8-orange?style=for-the-badge&logo=camunda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-black?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-8-orange?logo=camunda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-white.svg?logo=jenkins&logoColor=black)
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySql-00758f.svg?logo=mysql&logoColor=white)
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white" />
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css-white?logo=css&logoColor=563d7c)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c.svg?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-white.svg?logo=jquery&logoColor=blue)
+![Apache](https://img.shields.io/badge/Apache-white.svg?logo=apache&logoColor=red)
 
 
 # 📊 GitHub Stats:
@@ -38,7 +40,7 @@ Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohitpshelar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you like what i do, You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rohitpshelar) 
   [![UPI](https://img.shields.io/badge/UPI-green?style=for-the-badge&logo=googlepay&logoColor=black)](https://github.com/user-attachments/assets/2c7fb4f7-8642-4e83-8e57-577522120e3f)
 
