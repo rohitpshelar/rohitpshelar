@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi, i'm Rohit Shelar, a passionate software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<h1 align="center"> Hello, I'm Rohit Shelar 🦊 ! </h1>
+
+<h3 align="center">I'm a Passionate Software Developer from India ❤</h3>
+
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 ## 🌐 Socials:
